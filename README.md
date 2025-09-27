@@ -35,28 +35,34 @@ O foco foi aprimorar habilidades práticas em desenvolvimento web com JavaScript
 
 ## 🛠️ Tecnologias aprofundadas durante o curso
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="80" height="80"/>                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="80" height="80"/>                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="80" height="80"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="80" height="80"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80" height="80"/>
 
 ## 🖼️ Imagens da Aplicação
 Uma prévia das principais telas da aplicação **Pa.ra.béns**:
+
+**🌐 Acesse o Projeto Online**
+
+O projeto está disponível para visualização na **Vercel**. Clique no link abaixo para acessar:
+
+<a href="https://parabens-tau.vercel.app/" target="_blank">![Static Badge](https://img.shields.io/badge/Vercel-project?style=for-the-badge&color=A91079)</a>
 
 **🎉 Tela Inicial**
 
 A tela de boas-vindas, onde os usuários têm uma primeira impressão do aplicativo.
 
-![Tela Inicial](assets/imagens/parabens-app-apresentacao.png)
+<img src="assets/imagens/parabens-app-apresentacao.png" alt="Registro de mensagens" width="600"/>
 
 **💬 Registro de Mensagens**
 
 Área onde os usuários podem escrever e salvar suas mensagens personalizadas de aniversário.
 
-![Tela de Registro de Mensagens](assets/imagens/parabens-app-cadastro.png)
+<img src="assets/imagens/parabens-app-cadastro.png" alt="Registro de mensagens" width="600"/>
 
 **📜 Mural de Recados**
 
 Um espaço especial onde todas as mensagens ficam disponíveis para visualização.
 
-![Mural](assets/imagens/parabens-app-mural.png)
+<img src="assets/imagens/parabens-app-mural.png" alt="Registro de mensagens" width="600"/>
 
 
 
